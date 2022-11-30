@@ -2,7 +2,7 @@
 
 A baseline repository for android vr (Oculus Quest 2, Vive Cosmos, etc.) wich has been setup for deployment.
 
-R## Repository Details:
+## Repository Details:
 - Unity version 2021.3.12f1
 - XRInteractionToolkit version 2.2.0
 - Oculus plugin version 3.0.2 
